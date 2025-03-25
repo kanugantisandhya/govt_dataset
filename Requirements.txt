@@ -1,0 +1,13 @@
+Important Requirements for This Dataset:
+
+Complete & Accurate Data: Ensure all fields (License No, Validity, Category, Zone) are correctly filled to avoid missing or inconsistent records.
+
+Standardized Formatting: Maintain uniform date formats (DD-MM-YYYY) and consistent zone names to prevent duplication or misclassification.
+
+Updated License Validity: Regularly update expired licenses to keep track of active manufacturers.
+
+Proper Encoding: Use UTF-8 or ISO-8859-1 encoding to avoid special character issues in company names and addresses.
+
+Categorization of Products: Clearly define product categories to help in analysis and filtering.
+
+Geographical Distribution Analysis: Ensure accurate zone allocation for better market insights and regulation compliance.
